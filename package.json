@@ -1,0 +1,8 @@
+{
+  "name": "prompt-instructions",
+  "version": "1.0.0",
+  "description": "prompt writing guide",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  }
+}
